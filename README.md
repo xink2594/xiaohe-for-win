@@ -7,4 +7,4 @@
 - 数值数据： `小鹤双拼*2*^*iuvdjhcwfg^xmlnpbksqszxkrltvyovt`
 
 ## 方案二： 使用注册表文件
-- 下载'xiaohe.reg' , 双击运行。
+- 下载 `xiaohe.reg` , 双击运行。
